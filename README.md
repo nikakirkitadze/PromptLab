@@ -1,4 +1,4 @@
-# PromptForge
+# PromptLab
 
 AI Content Generation Simulator — a production-minded Flutter MVP that demonstrates clean architecture, async job lifecycle management, concurrent execution, and polished UI.
 
