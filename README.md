@@ -4,7 +4,7 @@ AI Content Generation Simulator — a production-minded Flutter MVP that demonst
 
 ## Project Purpose
 
-PromptForge lets users create AI generation jobs (Image, Video, Audio) from text prompts. A **fake backend service** simulates realistic long-running jobs with queued/processing/completed/failed/canceled statuses, random failures, and concurrent execution — all persisted locally.
+PromptLab lets users create AI generation jobs (Image, Video, Audio) from text prompts. A **fake backend service** simulates realistic long-running jobs with queued/processing/completed/failed/canceled statuses, random failures, and concurrent execution — all persisted locally.
 
 ## Architecture
 
